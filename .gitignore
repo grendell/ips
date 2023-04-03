@@ -1,0 +1,4 @@
+obj
+*.ips
+*.sfc
+.DS_Store
