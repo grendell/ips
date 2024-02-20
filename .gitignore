@@ -1,4 +1,5 @@
 obj
 *.ips
+*.nes
 *.sfc
 .DS_Store

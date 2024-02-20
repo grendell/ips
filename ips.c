@@ -146,6 +146,7 @@ int main(int argc, char ** argv) {
                 }
 
                 toWrite -= w;
+                s = toWrite > LENGTH ? LENGTH : toWrite;
             }
         } else {
             size_t toRead = size;
